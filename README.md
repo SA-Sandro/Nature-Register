@@ -1,7 +1,8 @@
 # 🌿 Nature Register
 
 ![Nature_Register](https://github.com/user-attachments/assets/4e35eb58-ff75-4b1c-839e-59289e54fce1)
-
+![978shots_so](https://github.com/user-attachments/assets/ece6199a-742a-4adf-ac94-d32c73b8dad8)
+![240shots_so](https://github.com/user-attachments/assets/44ef7308-5c56-48ca-82ba-8ac302ef8c15)
 ---
 
 1. **Unzip the Program**  
